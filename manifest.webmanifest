@@ -1,18 +1,13 @@
 {
   "id": "./",
-  "name": "Horror Vault \u2014 Horror Movie Collection",
+  "name": "Horror Vault",
   "short_name": "Horror Vault",
-  "description": "Your personal horror movie library, watchlist, reviews, and viewing diary.",
+  "description": "Your personal horror movie archive",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#0d0b0e",
-  "theme_color": "#0d0b0e",
-  "categories": [
-    "entertainment",
-    "lifestyle"
-  ],
+  "background_color": "#100d12",
+  "theme_color": "#19151b",
   "icons": [
     {
       "src": "./icons/icon-192.png",
